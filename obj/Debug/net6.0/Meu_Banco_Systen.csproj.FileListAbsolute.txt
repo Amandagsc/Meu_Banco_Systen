@@ -1,0 +1,15 @@
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\bin\Debug\net6.0\Meu_Banco_Systen.exe
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\bin\Debug\net6.0\Meu_Banco_Systen.deps.json
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\bin\Debug\net6.0\Meu_Banco_Systen.runtimeconfig.json
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\bin\Debug\net6.0\Meu_Banco_Systen.dll
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\bin\Debug\net6.0\Meu_Banco_Systen.pdb
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\obj\Debug\net6.0\Meu_Banco_Systen.csproj.AssemblyReference.cache
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\obj\Debug\net6.0\Meu_Banco_Systen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\obj\Debug\net6.0\Meu_Banco_Systen.AssemblyInfoInputs.cache
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\obj\Debug\net6.0\Meu_Banco_Systen.AssemblyInfo.cs
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\obj\Debug\net6.0\Meu_Banco_Systen.csproj.CoreCompileInputs.cache
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\obj\Debug\net6.0\Meu_Banco_Systen.dll
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\obj\Debug\net6.0\refint\Meu_Banco_Systen.dll
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\obj\Debug\net6.0\Meu_Banco_Systen.pdb
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\obj\Debug\net6.0\Meu_Banco_Systen.genruntimeconfig.cache
+C:\Amanda\Projetos\CSharp\Console\Meu_Banco_Systen\Meu_Banco_Systen\obj\Debug\net6.0\ref\Meu_Banco_Systen.dll
