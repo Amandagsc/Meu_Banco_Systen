@@ -12,7 +12,6 @@ namespace Meu_Banco_Systen
         public string Nome { get; set; }
         public Conta conta { get; set; }
         public string Agencia { get; set; }
-        public string Transacoes { get; set; }
 
 
         public Banco()
